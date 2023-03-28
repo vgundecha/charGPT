@@ -1,7 +1,7 @@
 # charGPT
 Train (overfit) a Small Language Model aka charGPT on your laptop in < 5 mins
 
-Large Language Models are great, but not they are not suitable for experimentation. This implements a GPT from scratch, trained on characters on a tiny text dataset. 
+Large Language Models are great, but not they are not suitable for experimentation. This implements a GPT from scratch, trained on characters from a tiny text dataset. 
 
 ## What's different from the original GPT
 - Trained on characters, not words/sub-words. Hence, no fancy tokenization required
